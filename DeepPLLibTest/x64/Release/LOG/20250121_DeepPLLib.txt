@@ -1,0 +1,112 @@
+[2025-01-21 16:02:33] create_dir_flag:1
+[2025-01-21 16:02:33] using_nms:1
+[2025-01-21 16:02:33] conf_threshold:0.300000
+[2025-01-21 16:02:33] iou_threshold:0.300000
+[2025-01-21 16:02:33] labels_path:data/classes.txt
+[2025-01-21 16:02:33] device:
+[2025-01-21 16:02:33] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-21 16:02:34] Model Init Succeed!
+[2025-01-21 16:02:34] img_path:E:/work_program/lsx_ort_cpp_demo/zj_ort_cpp_dll/deepPL/DeepPLLibTest/x64/Release/images/20250103_140804_777.jpg
+[2025-01-21 16:02:34] preprocess_flag:1
+[2025-01-21 16:02:34] create input_tensor flag succeed!
+[2025-01-21 16:02:34] model_infer strat ...
+[2025-01-21 16:02:34] onnx model_infer end!
+[2025-01-21 16:02:34] using_nms:1
+[2025-01-21 16:02:34] postprocess_flag:1
+[2025-01-21 16:02:43] FreeOut succeed!
+[2025-01-21 16:02:46] create_dir_flag:1
+[2025-01-21 16:02:46] using_nms:1
+[2025-01-21 16:02:46] conf_threshold:0.300000
+[2025-01-21 16:02:46] iou_threshold:0.300000
+[2025-01-21 16:02:46] labels_path:data/classes.txt
+[2025-01-21 16:02:46] device:
+[2025-01-21 16:02:46] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-21 16:02:47] Model Init Succeed!
+[2025-01-21 16:02:47] img_path:E:/work_program/lsx_ort_cpp_demo/zj_ort_cpp_dll/deepPL/DeepPLLibTest/x64/Release/images/20250103_140804_777.jpg
+[2025-01-21 16:02:47] preprocess_flag:1
+[2025-01-21 16:02:47] create input_tensor flag succeed!
+[2025-01-21 16:02:47] model_infer strat ...
+[2025-01-21 16:02:47] onnx model_infer end!
+[2025-01-21 16:02:47] using_nms:1
+[2025-01-21 16:02:47] postprocess_flag:1
+[2025-01-21 16:02:49] FreeOut succeed!
+[2025-01-21 16:03:55] create_dir_flag:1
+[2025-01-21 16:03:55] using_nms:1
+[2025-01-21 16:03:55] conf_threshold:0.300000
+[2025-01-21 16:03:55] iou_threshold:0.300000
+[2025-01-21 16:03:55] labels_path:data/classes.txt
+[2025-01-21 16:03:55] device:
+[2025-01-21 16:03:55] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-21 16:03:55] Model Init Succeed!
+[2025-01-21 16:03:55] img_path:E:/work_program/lsx_ort_cpp_demo/zj_ort_cpp_dll/deepPL/DeepPLLibTest/x64/Release/images/20250103_140804_777.jpg
+[2025-01-21 16:03:55] preprocess_flag:1
+[2025-01-21 16:03:55] create input_tensor flag succeed!
+[2025-01-21 16:03:55] model_infer strat ...
+[2025-01-21 16:03:55] onnx model_infer end!
+[2025-01-21 16:03:55] using_nms:1
+[2025-01-21 16:03:55] postprocess_flag:1
+[2025-01-21 16:03:57] FreeOut succeed!
+[2025-01-21 16:04:14] create_dir_flag:1
+[2025-01-21 16:04:14] using_nms:1
+[2025-01-21 16:04:14] conf_threshold:0.300000
+[2025-01-21 16:04:14] iou_threshold:0.300000
+[2025-01-21 16:04:14] labels_path:data/classes.txt
+[2025-01-21 16:04:14] device:
+[2025-01-21 16:04:14] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-21 16:04:14] Model Init Succeed!
+[2025-01-21 16:04:14] img_path:images/20250103_140804_777.jpg
+[2025-01-21 16:04:15] preprocess_flag:1
+[2025-01-21 16:04:15] create input_tensor flag succeed!
+[2025-01-21 16:04:15] model_infer strat ...
+[2025-01-21 16:04:15] onnx model_infer end!
+[2025-01-21 16:04:15] using_nms:1
+[2025-01-21 16:04:15] postprocess_flag:1
+[2025-01-21 16:04:17] FreeOut succeed!
+[2025-01-21 16:04:59] create_dir_flag:1
+[2025-01-21 16:04:59] using_nms:1
+[2025-01-21 16:04:59] conf_threshold:0.300000
+[2025-01-21 16:04:59] iou_threshold:0.300000
+[2025-01-21 16:04:59] labels_path:data/classes.txt
+[2025-01-21 16:04:59] device:
+[2025-01-21 16:04:59] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-21 16:05:00] Model Init Succeed!
+[2025-01-21 16:05:00] img_path:./images/20250103_142316_169.jpg
+[2025-01-21 16:05:00] preprocess_flag:1
+[2025-01-21 16:05:00] create input_tensor flag succeed!
+[2025-01-21 16:05:00] model_infer strat ...
+[2025-01-21 16:05:00] onnx model_infer end!
+[2025-01-21 16:05:00] using_nms:1
+[2025-01-21 16:05:00] postprocess_flag:1
+[2025-01-21 16:05:57] FreeOut succeed!
+[2025-01-21 16:06:52] create_dir_flag:1
+[2025-01-21 16:06:52] using_nms:1
+[2025-01-21 16:06:52] conf_threshold:0.300000
+[2025-01-21 16:06:52] iou_threshold:0.300000
+[2025-01-21 16:06:52] labels_path:data/classes.txt
+[2025-01-21 16:06:52] device:
+[2025-01-21 16:06:52] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-21 16:06:52] Model Init Succeed!
+[2025-01-21 16:06:52] img_path:./images/20250103_142316_169.jpg
+[2025-01-21 16:06:52] preprocess_flag:1
+[2025-01-21 16:06:52] create input_tensor flag succeed!
+[2025-01-21 16:06:52] model_infer strat ...
+[2025-01-21 16:06:53] onnx model_infer end!
+[2025-01-21 16:06:53] using_nms:1
+[2025-01-21 16:06:53] postprocess_flag:1
+[2025-01-21 16:06:55] FreeOut succeed!
+[2025-01-21 16:22:30] create_dir_flag:1
+[2025-01-21 16:22:30] using_nms:1
+[2025-01-21 16:22:30] conf_threshold:0.300000
+[2025-01-21 16:22:30] iou_threshold:0.300000
+[2025-01-21 16:22:30] labels_path:data/classes.txt
+[2025-01-21 16:22:30] device:
+[2025-01-21 16:22:30] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-21 16:22:30] Model Init Succeed!
+[2025-01-21 16:22:30] img_path:./images/20250103_142316_169.jpg
+[2025-01-21 16:22:30] preprocess_flag:1
+[2025-01-21 16:22:30] create input_tensor flag succeed!
+[2025-01-21 16:22:30] model_infer strat ...
+[2025-01-21 16:22:31] onnx model_infer end!
+[2025-01-21 16:22:31] using_nms:1
+[2025-01-21 16:22:31] postprocess_flag:1
+[2025-01-21 16:22:33] FreeOut succeed!

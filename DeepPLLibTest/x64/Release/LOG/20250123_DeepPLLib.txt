@@ -1,0 +1,55 @@
+[2025-01-23 10:01:31] create_dir_flag:1
+[2025-01-23 10:01:31] using_nms:1
+[2025-01-23 10:01:31] conf_threshold:0.300000
+[2025-01-23 10:01:31] iou_threshold:0.300000
+[2025-01-23 10:01:31] labels_path:data/classes.txt
+[2025-01-23 10:01:31] device:
+[2025-01-23 10:01:31] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-23 10:01:32] Model Init Succeed!
+[2025-01-23 10:01:32] img_path:./images/20250103_142316_169.jpg
+[2025-01-23 10:01:32] preprocess_flag:1
+[2025-01-23 10:01:32] create input_tensor flag succeed!
+[2025-01-23 10:01:32] model_infer strat ...
+[2025-01-23 10:01:32] onnx model_infer end!
+[2025-01-23 10:01:32] num_origin:300
+[2025-01-23 10:01:32] using_nms:1
+[2025-01-23 10:01:32] postprocess_flag:1
+[2025-01-23 10:01:32] num_nms:7
+[2025-01-23 10:01:38] FreeOut succeed!
+[2025-01-23 10:02:03] create_dir_flag:1
+[2025-01-23 10:02:03] using_nms:1
+[2025-01-23 10:02:03] conf_threshold:0.300000
+[2025-01-23 10:02:03] iou_threshold:0.300000
+[2025-01-23 10:02:03] labels_path:data/classes.txt
+[2025-01-23 10:02:03] device:
+[2025-01-23 10:02:03] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-23 10:02:04] Model Init Succeed!
+[2025-01-23 10:02:04] img_path:./images/20250103_142316_169.jpg
+[2025-01-23 10:02:04] preprocess_flag:1
+[2025-01-23 10:02:04] create input_tensor flag succeed!
+[2025-01-23 10:02:04] model_infer strat ...
+[2025-01-23 10:02:04] onnx model_infer end!
+[2025-01-23 10:02:04] num_origin:300
+[2025-01-23 10:02:04] using_nms:1
+[2025-01-23 10:02:04] postprocess_flag:1
+[2025-01-23 10:02:04] num_nms:7
+[2025-01-23 10:02:10] FreeOut succeed!
+[2025-01-23 10:03:49] create_dir_flag:1
+[2025-01-23 10:03:49] using_nms:1
+[2025-01-23 10:03:49] conf_threshold:0.300000
+[2025-01-23 10:03:49] iou_threshold:0.300000
+[2025-01-23 10:03:49] labels_path:data/classes.txt
+[2025-01-23 10:03:49] device:
+[2025-01-23 10:03:49] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-23 10:03:50] Model Init Succeed!
+[2025-01-23 10:03:50] img_path:./images/20250103_142316_169.jpg
+[2025-01-23 10:03:50] preprocess_flag:1
+[2025-01-23 10:03:50] create input_tensor flag succeed!
+[2025-01-23 10:03:50] model_infer strat ...
+[2025-01-23 10:03:50] onnx model_infer end!
+[2025-01-23 10:03:50] num_origin:300
+[2025-01-23 10:03:50] num1:8
+[2025-01-23 10:03:50] using_nms:1
+[2025-01-23 10:03:50] postprocess_flag:1
+[2025-01-23 10:03:50] num_nms:7
+[2025-01-23 10:04:16] FreeOut succeed!

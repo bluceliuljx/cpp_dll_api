@@ -1,0 +1,33 @@
+﻿  deepPLDLL.cpp
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\DeepPLLib\deepPLDLL.cpp(28,6): warning C4273: “TestAPI”: dll 链接不一致
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\DeepPLLib\deepPLDLL.h(23,22): message : 参见“TestAPI”的前一个定义
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\DeepPLLib\deepPLDLL.cpp(283,6): warning C4273: “PLZJDetection”: dll 链接不一致
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\DeepPLLib\deepPLDLL.h(48,22): message : 参见“PLZJDetection”的前一个定义
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\DeepPLLib\deepPLDLL.cpp(285,6): warning C4273: “FreeOut”: dll 链接不一致
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\DeepPLLib\deepPLDLL.h(55,22): message : 参见“FreeOut”的前一个定义
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\DeepPLLib\deepPLDLL.cpp(342,6): warning C4273: “init_model”: dll 链接不一致
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\DeepPLLib\deepPLDLL.h(37,22): message : 参见“init_model”的前一个定义
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\DeepPLLib\deepPLDLL.cpp(400,6): warning C4273: “preprocess”: dll 链接不一致
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\DeepPLLib\deepPLDLL.h(59,22): message : 参见“preprocess”的前一个定义
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\DeepPLLib\deepPLDLL.cpp(548,26): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\DeepPLLib\deepPLDLL.cpp(559,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\DeepPLLib\deepPLDLL.cpp(569,57): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\DeepPLLib\deepPLDLL.cpp(569,41): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\DeepPLLib\deepPLDLL.cpp(582,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\DeepPLLib\deepPLDLL.cpp(592,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\DeepPLLib\deepPLDLL.cpp(662,26): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=int64_t
+          ]
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\DeepPLLib\deepPLDLL.cpp(663,26): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=int64_t
+          ]
+    正在创建库 E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\x64\Debug\DeepPLLib.lib 和对象 E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\x64\Debug\DeepPLLib.exp
+  DeepPLLib.vcxproj -> E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLib\x64\Debug\DeepPLLib.dll

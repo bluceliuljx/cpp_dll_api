@@ -1,0 +1,7 @@
+[2025-01-22 15:10:37] create_dir_flag:1
+[2025-01-22 15:10:37] using_nms:0
+[2025-01-22 15:10:37] conf_threshold:0.000000
+[2025-01-22 15:10:37] iou_threshold:0.000000
+[2025-01-22 15:10:37] labels_path:
+[2025-01-22 15:10:37] device:
+[2025-01-22 15:10:37] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE

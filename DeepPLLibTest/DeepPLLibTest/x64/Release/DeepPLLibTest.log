@@ -1,0 +1,9 @@
+﻿  main.cpp
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLibTest\DeepPLLibTest\main.cpp(18,2): warning C4091: “typedef ”: 没有声明变量时忽略“OutParams”的左侧
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLibTest\DeepPLLibTest\main.cpp(314,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLibTest\DeepPLLibTest\main.cpp(317,177): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 470 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  DeepPLLibTest.vcxproj -> E:\work_program\lsx_ort_cpp_demo\zj_ort_cpp_dll\deepPL\DeepPLLibTest\x64\Release\DeepPLLibTest.exe

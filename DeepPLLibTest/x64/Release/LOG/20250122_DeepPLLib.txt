@@ -1,0 +1,195 @@
+[2025-01-22 15:10:50] create_dir_flag:1
+[2025-01-22 15:10:50] using_nms:1
+[2025-01-22 15:10:50] conf_threshold:0.300000
+[2025-01-22 15:10:50] iou_threshold:0.300000
+[2025-01-22 15:10:50] labels_path:data/classes.txt
+[2025-01-22 15:10:50] device:
+[2025-01-22 15:10:50] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-22 15:10:50] Model Init Succeed!
+[2025-01-22 15:10:50] img_path:./images/20250103_142316_169.jpg
+[2025-01-22 15:10:50] preprocess_flag:1
+[2025-01-22 15:10:50] create input_tensor flag succeed!
+[2025-01-22 15:10:50] model_infer strat ...
+[2025-01-22 15:10:51] onnx model_infer end!
+[2025-01-22 15:10:51] using_nms:1
+[2025-01-22 15:10:51] postprocess_flag:1
+[2025-01-22 15:25:30] create_dir_flag:1
+[2025-01-22 15:25:30] using_nms:1
+[2025-01-22 15:25:30] conf_threshold:0.300000
+[2025-01-22 15:25:30] iou_threshold:0.300000
+[2025-01-22 15:25:30] labels_path:data/classes.txt
+[2025-01-22 15:25:30] device:
+[2025-01-22 15:25:30] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-22 15:25:31] Model Init Succeed!
+[2025-01-22 15:25:31] img_path:./images/20250103_142316_169.jpg
+[2025-01-22 15:25:31] preprocess_flag:1
+[2025-01-22 15:25:31] create input_tensor flag succeed!
+[2025-01-22 15:25:31] model_infer strat ...
+[2025-01-22 15:25:31] onnx model_infer end!
+[2025-01-22 15:25:31] using_nms:1
+[2025-01-22 15:25:31] postprocess_flag:1
+[2025-01-22 15:26:24] create_dir_flag:1
+[2025-01-22 15:26:24] using_nms:1
+[2025-01-22 15:26:24] conf_threshold:0.300000
+[2025-01-22 15:26:24] iou_threshold:0.300000
+[2025-01-22 15:26:24] labels_path:data/classes.txt
+[2025-01-22 15:26:24] device:
+[2025-01-22 15:26:24] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-22 15:26:24] Model Init Succeed!
+[2025-01-22 15:26:24] img_path:./images/20250103_142316_169.jpg
+[2025-01-22 15:26:24] preprocess_flag:1
+[2025-01-22 15:26:24] create input_tensor flag succeed!
+[2025-01-22 15:26:24] model_infer strat ...
+[2025-01-22 15:26:25] onnx model_infer end!
+[2025-01-22 15:26:25] using_nms:1
+[2025-01-22 15:26:25] postprocess_flag:1
+[2025-01-22 15:29:12] create_dir_flag:1
+[2025-01-22 15:29:12] using_nms:1
+[2025-01-22 15:29:12] conf_threshold:0.300000
+[2025-01-22 15:29:12] iou_threshold:0.300000
+[2025-01-22 15:29:12] labels_path:data/classes.txt
+[2025-01-22 15:29:12] device:
+[2025-01-22 15:29:12] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-22 15:29:13] Model Init Succeed!
+[2025-01-22 15:29:13] img_path:./images/20250103_142316_169.jpg
+[2025-01-22 15:29:13] preprocess_flag:1
+[2025-01-22 15:29:13] create input_tensor flag succeed!
+[2025-01-22 15:29:13] model_infer strat ...
+[2025-01-22 15:29:13] onnx model_infer end!
+[2025-01-22 15:29:13] using_nms:1
+[2025-01-22 15:29:13] postprocess_flag:1
+[2025-01-22 15:29:45] create_dir_flag:1
+[2025-01-22 15:29:45] using_nms:1
+[2025-01-22 15:29:45] conf_threshold:0.300000
+[2025-01-22 15:29:45] iou_threshold:0.300000
+[2025-01-22 15:29:45] labels_path:data/classes.txt
+[2025-01-22 15:29:45] device:
+[2025-01-22 15:29:45] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-22 15:29:46] Model Init Succeed!
+[2025-01-22 15:29:46] img_path:./images/20250103_142316_169.jpg
+[2025-01-22 15:29:46] preprocess_flag:1
+[2025-01-22 15:29:46] create input_tensor flag succeed!
+[2025-01-22 15:29:46] model_infer strat ...
+[2025-01-22 15:29:46] onnx model_infer end!
+[2025-01-22 15:29:46] using_nms:1
+[2025-01-22 15:29:46] postprocess_flag:1
+[2025-01-22 18:05:40] create_dir_flag:1
+[2025-01-22 18:05:40] using_nms:1
+[2025-01-22 18:05:40] conf_threshold:0.300000
+[2025-01-22 18:05:40] iou_threshold:0.300000
+[2025-01-22 18:05:40] labels_path:data/classes.txt
+[2025-01-22 18:05:40] device:
+[2025-01-22 18:05:40] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-22 18:05:41] Model Init Succeed!
+[2025-01-22 18:05:41] img_path:./images/20250103_142316_169.jpg
+[2025-01-22 18:05:41] preprocess_flag:1
+[2025-01-22 18:05:41] create input_tensor flag succeed!
+[2025-01-22 18:05:41] model_infer strat ...
+[2025-01-22 18:05:43] onnx model_infer end!
+[2025-01-22 18:05:43] using_nms:1
+[2025-01-22 18:05:43] postprocess_flag:1
+[2025-01-22 18:06:46] create_dir_flag:1
+[2025-01-22 18:06:46] using_nms:1
+[2025-01-22 18:06:46] conf_threshold:0.300000
+[2025-01-22 18:06:46] iou_threshold:0.300000
+[2025-01-22 18:06:46] labels_path:data/classes.txt
+[2025-01-22 18:06:46] device:
+[2025-01-22 18:06:46] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-22 18:06:46] Model Init Succeed!
+[2025-01-22 18:06:46] img_path:./images/20250103_142316_169.jpg
+[2025-01-22 18:06:46] preprocess_flag:1
+[2025-01-22 18:06:46] create input_tensor flag succeed!
+[2025-01-22 18:06:46] model_infer strat ...
+[2025-01-22 18:06:47] onnx model_infer end!
+[2025-01-22 18:06:47] using_nms:1
+[2025-01-22 18:06:47] postprocess_flag:1
+[2025-01-22 18:07:20] create_dir_flag:1
+[2025-01-22 18:07:20] using_nms:1
+[2025-01-22 18:07:20] conf_threshold:0.300000
+[2025-01-22 18:07:20] iou_threshold:0.300000
+[2025-01-22 18:07:20] labels_path:data/classes.txt
+[2025-01-22 18:07:20] device:
+[2025-01-22 18:07:20] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-22 18:07:20] Model Init Succeed!
+[2025-01-22 18:07:20] img_path:./images/20250103_142316_169.jpg
+[2025-01-22 18:07:20] preprocess_flag:1
+[2025-01-22 18:07:20] create input_tensor flag succeed!
+[2025-01-22 18:07:20] model_infer strat ...
+[2025-01-22 18:07:21] onnx model_infer end!
+[2025-01-22 18:07:21] using_nms:1
+[2025-01-22 18:07:21] postprocess_flag:1
+[2025-01-22 18:11:18] create_dir_flag:1
+[2025-01-22 18:11:18] using_nms:1
+[2025-01-22 18:11:18] conf_threshold:0.300000
+[2025-01-22 18:11:18] iou_threshold:0.300000
+[2025-01-22 18:11:18] labels_path:data/classes.txt
+[2025-01-22 18:11:18] device:
+[2025-01-22 18:11:18] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-22 18:11:19] Model Init Succeed!
+[2025-01-22 18:11:19] img_path:./images/20250103_142316_169.jpg
+[2025-01-22 18:11:19] preprocess_flag:1
+[2025-01-22 18:11:19] create input_tensor flag succeed!
+[2025-01-22 18:11:19] model_infer strat ...
+[2025-01-22 18:11:19] onnx model_infer end!
+[2025-01-22 18:11:19] using_nms:1
+[2025-01-22 18:11:19] postprocess_flag:1
+[2025-01-22 18:12:51] create_dir_flag:1
+[2025-01-22 18:12:51] using_nms:1
+[2025-01-22 18:12:51] conf_threshold:0.300000
+[2025-01-22 18:12:51] iou_threshold:0.300000
+[2025-01-22 18:12:51] labels_path:data/classes.txt
+[2025-01-22 18:12:51] device:
+[2025-01-22 18:12:51] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-22 18:12:52] Model Init Succeed!
+[2025-01-22 18:12:52] img_path:./images/20250103_142316_169.jpg
+[2025-01-22 18:12:52] preprocess_flag:1
+[2025-01-22 18:12:52] create input_tensor flag succeed!
+[2025-01-22 18:12:52] model_infer strat ...
+[2025-01-22 18:12:52] onnx model_infer end!
+[2025-01-22 18:12:52] using_nms:1
+[2025-01-22 18:12:52] postprocess_flag:1
+[2025-01-22 18:13:47] create_dir_flag:1
+[2025-01-22 18:13:47] using_nms:1
+[2025-01-22 18:13:47] conf_threshold:0.300000
+[2025-01-22 18:13:47] iou_threshold:0.300000
+[2025-01-22 18:13:47] labels_path:data/classes.txt
+[2025-01-22 18:13:47] device:
+[2025-01-22 18:13:47] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-22 18:13:47] Model Init Succeed!
+[2025-01-22 18:13:47] img_path:./images/20250103_142316_169.jpg
+[2025-01-22 18:13:47] preprocess_flag:1
+[2025-01-22 18:13:47] create input_tensor flag succeed!
+[2025-01-22 18:13:47] model_infer strat ...
+[2025-01-22 18:13:48] onnx model_infer end!
+[2025-01-22 18:13:48] using_nms:1
+[2025-01-22 18:13:48] postprocess_flag:1
+[2025-01-22 18:14:19] create_dir_flag:1
+[2025-01-22 18:14:19] using_nms:1
+[2025-01-22 18:14:19] conf_threshold:0.300000
+[2025-01-22 18:14:19] iou_threshold:0.300000
+[2025-01-22 18:14:19] labels_path:data/classes.txt
+[2025-01-22 18:14:19] device:
+[2025-01-22 18:14:19] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-22 18:14:20] Model Init Succeed!
+[2025-01-22 18:14:20] img_path:./images/20250103_142316_169.jpg
+[2025-01-22 18:14:20] preprocess_flag:1
+[2025-01-22 18:14:20] create input_tensor flag succeed!
+[2025-01-22 18:14:20] model_infer strat ...
+[2025-01-22 18:14:20] onnx model_infer end!
+[2025-01-22 18:14:20] using_nms:1
+[2025-01-22 18:14:20] postprocess_flag:1
+[2025-01-22 18:14:45] create_dir_flag:1
+[2025-01-22 18:14:45] using_nms:1
+[2025-01-22 18:14:45] conf_threshold:0.300000
+[2025-01-22 18:14:45] iou_threshold:0.300000
+[2025-01-22 18:14:45] labels_path:data/classes.txt
+[2025-01-22 18:14:45] device:
+[2025-01-22 18:14:45] ONNXRUNTIME Env: yolov8-rtdetr-onnx ORT_LOGGING_LEVEL_VERBOSE
+[2025-01-22 18:14:46] Model Init Succeed!
+[2025-01-22 18:14:46] img_path:./images/20250103_142316_169.jpg
+[2025-01-22 18:14:46] preprocess_flag:1
+[2025-01-22 18:14:46] create input_tensor flag succeed!
+[2025-01-22 18:14:46] model_infer strat ...
+[2025-01-22 18:14:46] onnx model_infer end!
+[2025-01-22 18:14:46] using_nms:1
+[2025-01-22 18:14:46] postprocess_flag:1
